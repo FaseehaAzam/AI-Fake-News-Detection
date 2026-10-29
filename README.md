@@ -13,6 +13,13 @@ Users can paste news article text and receive a prediction, model confidence sco
 
 **Important:** This application does not independently verify whether news is factually true.
 
+## Live Application Demo
+
+[Try the AI Fake News Detection App](https://ai-fake-news-detection-faseeha123.streamlit.app/)
+
+![AI Fake News Detection App Screenshot](app_demo.png)
+
+
 ## Features
 
 - Interactive Streamlit web application
